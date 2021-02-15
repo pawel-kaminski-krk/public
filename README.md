@@ -1,3 +1,3 @@
 # public
 all public content
-- [/blogi/dist/index.html](blogi)
+- [blogi](https://pawel-kaminski-krk.github.io/public/blogi/dist/)
