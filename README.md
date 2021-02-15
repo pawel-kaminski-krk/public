@@ -1,3 +1,3 @@
 # public
 all public content
-- [/blogi/index.html](blogi)
+- [/blogi/dist/index.html](blogi)
